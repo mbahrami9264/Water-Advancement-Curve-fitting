@@ -4,6 +4,7 @@ We suggest using Anaconda and Jupyter notebook
 Instructions on how to install pyomo and ipopt solver are available at:
 
 https://anaconda.org/conda-forge/pyomo
+
 https://anaconda.org/conda-forge/ipopt
 
 The data used for curve fitting was saved in the .dat format. An example data file can be find in the repository.
